@@ -151,6 +151,6 @@ I would like to thank microverse for this project
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/Rifat8080/hello-react-front-end/tree/front-end-app?tab=License-1-ov-file) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
